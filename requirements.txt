@@ -1,0 +1,6 @@
+opencv-python
+vosk
+pyaudio
+requests
+pyttsx3
+pybullet
